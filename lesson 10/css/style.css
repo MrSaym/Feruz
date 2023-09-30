@@ -1,0 +1,18 @@
+
+
+
+
+.navbar {
+    background: indigo;
+}
+
+.main {
+    height: 400px;
+    width: 100%;
+    background-color: mediumpurple;
+}
+.main .main_items {
+height: 400px;
+width: 100%;
+background-color: darkkhaki;
+}
